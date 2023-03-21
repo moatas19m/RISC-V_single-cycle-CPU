@@ -1,3 +1,5 @@
+Used the code from T-K 233 single cycle cpu risc-v repository for a lab in CAAL (by Dr. Faisal Iradat, IBA). Below is the original README
+--------------------------
 # RISC-V Single Cycle CPU
 
 ![Cover Image](cover.jpg)
